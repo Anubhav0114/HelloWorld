@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![HelloWorld](https://github.com/Anubhav0114/HelloWorld/assets/88669266/3729c620-5943-4bf7-b830-5eb8028fff0c)
+
 
 GIF created with ...   [ScreenToGif](https://www.screentogif.com/) for Windows
 
